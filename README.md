@@ -1,16 +1,30 @@
-## Hi there 👋
+# CSol
 
-<!--
-**TheRealCSol/TheRealCSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> the abridging trajectory doesn't stop at traditional contrafreeloading.  
+> idc wtv i'm the will win you're the will nil.  
+> csol got no chillkil.
 
-Here are some ideas to get you started:
+Writing lean code because watching your unoptimized memory leaks burn my CPU cycles physically offends me. If your software requires a 2GB runtime just to center a `div` or ping an endpoint, you belong in digital quarantine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Actually Do
+
+* **Breaking Logic & Shoddy Architecture:** Finding the exact edge cases your dev team prayed I wouldn't test. If your security relies on "nobody will think of doing this," I already did.
+* **Firmware & Low-Level Sandboxes:** Stripping corporate bloat from Linux and AOSP builds until only pure utility remains. Zero telemetry, zero unrequested overhead.
+* **Automation Over Banter:** Writing scripts so I don't have to talk to anyone. If a task takes more than two manual clicks, it's getting automated out of spite.
+
+---
+
+### Inventory
+
+* **Lethal:** C, Python, POSIX Shell, Go
+* **Playground:** Linux/Unix, AOSP Internals, Docker, Hardware/ADB pipelines
+* **Philosophy:** High throughput, zero small talk, aggregate density 100%
+
+---
+
+### Ping / Inquiries
+
+* Don't ask to ask, just send the payload.
+* **Comms:** `kimiskovafscp@gmail.com`
