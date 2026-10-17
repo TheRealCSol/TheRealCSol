@@ -1,23 +1,31 @@
-<div align="center">
+### CSol
 
-# CSol
+Chief investigator of bullshit and accidental system crashes. 
 
-*Systems Architecture & Low-Level Security*
+I write code mostly because watching unoptimized software burn memory cycles annoys me. If a service needs 2GB of RAM just to ping an endpoint or show a single screen, something has gone wrong somewhere.
 
----
-
-</div>
-
-I view software through a purely functional lens: either a system operates with mathematical necessity, or it carries baggage that ought to be dismantled. Most modern tooling is designed around convenience at the cost of staggering inefficiency; my focus lies on the opposite end of that spectrum. 
-
-My work centers on firmware auditing, AOSP refinement, and low-level POSIX tooling. I spend my time analyzing how systems behave beneath user interfaces—identifying structural edge cases, stripping unnecessary telemetry, and ensuring that execution pipelines perform with maximum throughput and zero superfluous overhead.
-
-When writing code, I treat resource allocation as a zero-sum game. High memory footprints, unmonitored background tasks, and bloated dependencies are design compromises I choose not to make. I build tools in C, Python, Go, and Shell to automate logic, audit security perimeters, and isolate environments where reliability is non-negotiable.
+Most of my time goes into low-level plumbing—stripping bloat and telemetry from Linux and AOSP builds, auditing firmware edge cases, and writing small automation tools in C, Python, and shell so I don't have to repeat manual tasks twice.
 
 ---
 
-<div align="center">
+#### Projects & Toolkit
 
-```console
-TheRealCSol@core:~$ ping -c 1 comms
-PING kimiskovafscp@gmail.com: State your premise clearly. Payload only.
+* **What I touch:** C, Python, Go, POSIX shell, Linux internals, AOSP, Docker.
+* **What I avoid:** Pointless dependencies, unmonitored background tasks, and long meetings.
+* **ApkTriage:** Static analysis and reverse-engineering pipeline for Android packages.
+* **InHumanBot:** Automated utility scripts for task management and workflows.
+
+---
+
+#### Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRealCSol&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8D96A0&icon_color=58A6FF" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealCSol&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8D96A0" width="48%" alt="Languages" />
+</p>
+
+---
+
+#### Contact
+
+Don't ask to ask. Just send the context and what broke: `kimiskovafscp@gmail.com`
