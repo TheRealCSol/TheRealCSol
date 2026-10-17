@@ -1,23 +1,27 @@
 ### CSol
 
-Chief investigator of bullshit and accidental system crashes. 
+Software engineer focused on systems architecture, low-level tooling, and security analysis.
 
-I write code mostly because watching unoptimized software burn memory cycles annoys me. If a service needs 2GB of RAM just to ping an endpoint or show a single screen, something has gone wrong somewhere.
-
-Most of my time goes into low-level plumbing—stripping bloat and telemetry from Linux and AOSP builds, auditing firmware edge cases, and writing small automation tools in C, Python, and shell so I don't have to repeat manual tasks twice.
+My work centers on operating system internals, firmware evaluation, and runtime optimization. I prioritize performance, deterministic behavior, and minimal overhead across Linux and AOSP environments, stripping unnecessary background processes and refining systems down to their core functionality.
 
 ---
 
-#### Projects & Toolkit
+#### Focus Areas
 
-* **What I touch:** C, Python, Go, POSIX shell, Linux internals, AOSP, Docker.
-* **What I avoid:** Pointless dependencies, unmonitored background tasks, and long meetings.
-* **ApkTriage:** Static analysis and reverse-engineering pipeline for Android packages.
-* **InHumanBot:** Automated utility scripts for task management and workflows.
+* **Systems Engineering:** Building lightweight, efficient tooling in C, Python, Go, and POSIX shell.
+* **Firmware & Security:** Analyzing system integrity, auditing edge cases, and inspecting software behavior below the application layer.
+* **Automation:** Designing deterministic automation pipelines to reduce manual operational overhead.
 
 ---
 
-#### Telemetry
+#### Active Projects
+
+* **ApkTriage:** A utility pipeline for static analysis and security auditing of Android packages.
+* **InHumanBot:** Automated backend tooling and workflow management scripts.
+
+---
+
+#### Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheRealCSol&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8D96A0&icon_color=58A6FF" width="48%" alt="GitHub stats" />
@@ -28,4 +32,4 @@ Most of my time goes into low-level plumbing—stripping bloat and telemetry fro
 
 #### Contact
 
-Don't ask to ask. Just send the context and what broke: `kimiskovafscp@gmail.com`
+For security inquiries, collaboration, or code review: `kimiskovafscp@gmail.com`
