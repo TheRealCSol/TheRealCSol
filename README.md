@@ -15,9 +15,11 @@ Building things, figuring out how they work, and occasionally breaking them firs
 
 ### About
 
-I'm interested in the parts of software that sit beneath the surface: Linux, systems, backend engineering, networking and security.
+I'm into the things happening behind the scenes: Linux, systems, backend engineering, networking and security. Not that I need to explain why... but understanding how things work is pretty interesting.
 
-I learn by building, testing ideas, and understanding why something behaves the way it does. Most projects here are experiments that I want to turn into useful tools.
+I prefer learning by building things, breaking them, testing weird ideas and figuring out what went wrong. Most of my projects start as experiments, but I'd like to turn some of them into genuinely useful tools.
+
+Also, I may or may not have a weakness for Fumos. That's completely unrelated to my technical interests. Probably.
 
 ### Tools I use
 
