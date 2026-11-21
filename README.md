@@ -15,13 +15,11 @@ Understanding systems. Building things. Learning through experimentation.
 
 ### About
 
-I prefer understanding how things work rather than simply knowing how to use them.
+I'm into the things happening behind the scenes: Linux, systems, backend engineering, networking and security. Not that I need to explain why... but understanding how things work is pretty interesting.
 
-Linux, systems, backend engineering, networking and security are among my interests. Most of my learning happens through experimentation. I build things, examine their behaviour, break them occasionally and figure out what went wrong.
+I prefer learning by building things, breaking them, testing weird ideas and figuring out what went wrong. Most of my projects start as experiments, but I'd like to turn some of them into genuinely useful tools.
 
-I don't particularly enjoy talking about plans. I'd rather let the work speak for itself.
-
-And then there's my inexplicable appreciation for Fumos. Everyone has their priorities, I suppose.
+Also, I may or may not have a weakness for Fumos. That's completely unrelated to my technical interests. Probably.
 
 ### Tools I use
 
